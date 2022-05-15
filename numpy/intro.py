@@ -1,6 +1,12 @@
 # Import
 import numpy as np
 
+"""
+Dimension = axis
+rank = dimensiones = ndim
+shape = Lista de dimensiones con su longitud
+size = Total elementos
+"""
 # Arrays
 # Array cuyos valores son todos 0
 a = np.zeros((2, 4))
@@ -183,7 +189,6 @@ print(array1 - array2)
 # Multiplicacion
 # Importante: No es una multiplicación de matrices
 print(array1 * array2)
-
 
 #! Broadcasting
 # Creación de dos Arrays unidimensionales
