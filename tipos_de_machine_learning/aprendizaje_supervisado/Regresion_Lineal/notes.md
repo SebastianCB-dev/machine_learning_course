@@ -42,3 +42,15 @@ Se van a tener una dupla de datos de entrada y salida.
 ...
 
 (**Ver imagen 2**)
+
+
+### Continuando Regresión lineal
+Función hipotesis: (**Ver imagen de funcion hipotesis**)
+
+y = mx + b
+
+m y b = Parametros del modelo.
+donde m es la pendiente y b es el bias.
+
+Univariable = Solo una variable de entrada.
+Multivariable = varias variables de entrada.
