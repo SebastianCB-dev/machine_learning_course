@@ -2,10 +2,9 @@
 
 1. Artificial Superintelligence (ASI): IA que está sustancialmente más allá de la inteligencia humana.
    
-2. Aritificial General Intelligence (AGI): IA comparable con la gama de tareas que los humanos pueden abordar.
+2. Artificial General Intelligence (AGI): IA comparable con la gama de tareas que los humanos pueden abordar.
    
-3. Aritificial Narrow Intelligence (ANI): Imitan aspectos angostos de la inteligencia humana, ejemplo: NLP, Reconocimiento de voz, vision artificial.
-   
+3. Artificial Narrow Intelligence (ANI): Imitan aspectos angostos de la inteligencia humana, ejemplo: NLP, Reconocimiento de voz, vision artificial.
 
 # Otra clasificación:
 
